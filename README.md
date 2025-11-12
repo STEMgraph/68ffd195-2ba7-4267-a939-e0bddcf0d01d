@@ -1,6 +1,7 @@
 <!---
 {
   "id": "68ffd195-2ba7-4267-a939-e0bddcf0d01d",
+  "teaches": "Understanding the Stack in x86\_64 Assembly",
   "depends_on": ["800c7dd9-5ccf-42c1-b9ea-c2764579cf5d"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-06-12",
